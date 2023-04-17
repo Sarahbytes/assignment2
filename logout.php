@@ -30,5 +30,6 @@
     <h1>You have been logged out.</h1>
     <script src="main.js"></script>
 </main>
+<?php include 'footer.php'; ?>
 </body>
 </html>

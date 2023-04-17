@@ -21,5 +21,6 @@
     </form>
     <script src="main.js"></script>
 </main>
+<?php include 'footer.php'; ?>
 </body>
 </html>

@@ -12,5 +12,6 @@
     <h3>Please contact us at 1-800-GET-HELP</h3>
     <script src="main.js"></script>
 </main>
+<?php include 'footer.php'; ?>
 </body>
 </html>
