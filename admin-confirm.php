@@ -5,7 +5,8 @@ $username = "hfxadmin";
 $password = "hereW3go!";
 $dbname = "halifaxcanoe";
 
-$conn = new mysqli($servername, $username, $password, $dbname);
+$conn = new mysqli($localhost, $hfxadmin, '$herew3go!', $halifaxcanoe);
+
 
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
