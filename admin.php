@@ -19,6 +19,7 @@
     <ul>
         <li><a href="new-account.php">Create a New Account</a></li>
         <li><a href="isnt-working.php">My Computer Isn't Working</a></li>
+        <li><a href="admin-add.php">Add New Adventure</a></li>
     </ul>
     <script src="main.js"></script>
     </main>
